@@ -3,6 +3,9 @@
 // console.log("Hello")//Semicolor is added by ASi
 // console.log("World");
 
+//Important takeway-- Line should not end in improper way if not using ";", Though ";" is optional in JS
+//using "use strict" doesn't change the above mentioned 
+
 //Js doesn't add semicolor at the end of every line
 // let product=5* //as it is line break but js understand the operand needs number to complete the calculation
 // 2
