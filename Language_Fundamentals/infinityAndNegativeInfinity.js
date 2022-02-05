@@ -33,4 +33,4 @@ console.log(-Number.MAX_VALUE)
 
 
 // What will be the output of this code 
-// console.log(1/0)
+// console.log(1/0) //infinit0/
