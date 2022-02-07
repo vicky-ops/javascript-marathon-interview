@@ -27,3 +27,16 @@ console.log(`\n\t Original Price : ${priceAmount}
              discount Price : ${discountPrice(.7)}
              Payable amount : ${priceAmount-discountPrice(.7)}`)
 
+
+//multiplication=a=>b=c>a*b*c === const multiplcation=a>{
+//     return b=>{
+//         return c=>{
+//             return a+b+c
+//         }
+//     }
+// }
+
+//Explain practical usage of function curring.
+// Currying is an incredibly useful techique of functional programming which solves various purposes like passing partial parameters or avoiding unwanted repetitions like we tried with product price where price was passed only once
+
+
