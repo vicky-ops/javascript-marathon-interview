@@ -48,4 +48,9 @@ const animals = ['Dodo', 'Tiger', 'Penguin','Tiger', 'Dodo','Penguin'];
 
 // findIndex() will return -1 if there is no value
 
+// indexOf() returns only theindex vs includes() returns boolean value "true" and "false"
+
+// filter method can be used the get multiple match cases in search operation
+
+
 
