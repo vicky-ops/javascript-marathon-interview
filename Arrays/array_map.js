@@ -16,7 +16,7 @@
 // const sqrt=arr.map(elem=>Math.sqrt(elem))
 // console.log(sqrt)
 
-//return pName  from products arry
+//return pName  from products array
 const products=[
     {pCode:1,pName:"Apple"},
     {pCode:2,pName:"banana"},
